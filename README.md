@@ -1,12 +1,10 @@
-#### React Router Fix
+FEATURES:
 
-(Fix)[https://dev.to/dance2die/page-not-found-on-netlify-with-react-router-58mc]
+React Router
+Hooks (useState, useContext, useEffect, useCallback, useParams)
+External APIs use
+Functional components
 
-#### CRA Fix
-
-```
-
-"build": "CI= react-scripts build",
 
 ```
 git push -u origin main
