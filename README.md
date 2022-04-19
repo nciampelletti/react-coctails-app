@@ -8,3 +8,7 @@ Functional components
 
 ```
 git push -u origin main
+
+or 
+
+git pull 
