@@ -7,7 +7,7 @@ Functional components
 
 HOSTED solution:
 
-https://cimpelletti-cocktails.netlify.app
+https://ciampelletti-cocktails.netlify.app
 
 ```
 git push -u origin main
